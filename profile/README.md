@@ -11,4 +11,4 @@ Welcome to Bloom Credit. Tap into the power of a single API, whether you're laun
 
 ### Documentation and Quickstart
 
-Head over to our [API Documentation](https://developers.bloomcredit.io/docs), and visit our [Quickstart Guide](https://www.postman.com/bloom-eng/workspace/bloom-v2-quickstart/overview)
+Head over to our [API Documentation](https://developers.bloomcredit.io/docs), and visit our [Quickstart Postman Collection](https://www.postman.com/bloom-eng/workspace/bloom-v2-quickstart/overview)
